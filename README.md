@@ -1,7 +1,7 @@
 
-# Visualizations
+# Visualisations
 
-This repository was created as a place to store some examples of the visualizations I have created, either in the form of notebooks, links to Tableau Public, or other visualizations I have either published or posted elsewhere.
+This repository was created as a place to store some examples of the visualizations I have created, either in the form of notebooks, links to Tableau Public, or other visualisations I have either published or posted elsewhere.
 
 
 ## Appendix
